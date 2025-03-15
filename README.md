@@ -6,27 +6,27 @@
 
 
 #### II.Time series forecasting is crucial for predicting future crime trends based on historical data. Methods such as ARIMA, SARIMA, Prophet, and LSTM are commonly used to analyze crime patterns over time.LSTM has demonstrated superior performance in capturing long-term dependencies and complex crime trends. Prophet and SARIMA also show strong predictive capabilities, with Prophet achieving forecast errors below 10% in areas with clear cyclical crime patterns.
-#### II.1. Result ARIMA and SARIMA
+#### *II.1. Result ARIMA and SARIMA*
 
 ![image](https://github.com/user-attachments/assets/cbb21071-4b9d-4725-9bf4-568d2bf68d15)
 ![image](https://github.com/user-attachments/assets/244ac374-72d8-4f1e-a726-cb51e66fa0f0)
 
-#### II.2. Result Prophet
+#### *II.2. Result Prophet*
 
 ![image](https://github.com/user-attachments/assets/c4a145bd-c5df-4130-bd5e-268a1bb702ca)
 
-#### II.3. Result LSTM
+#### *II.3. Result LSTM*
 
 ![image](https://github.com/user-attachments/assets/8af8e9b4-e8e4-4ace-bef2-316e41cf47de)
 
 #### III. Crime analysis leverages both ML and time series forecasting to enhance decision-making for law enforcement and urban planning. By identifying high-risk areas and predicting crime surges, authorities can deploy resources proactively. This approach improves crime prevention strategies, optimizes resource allocation, and provides insights for decision-making. However, challenges remain regarding real-world data availability, computational resources, and security concerns. Future improvements will focus on refining models and expanding applications.
 
 
-#### **Hope this article can help you.**
-#### **If you have any questions please contact me for help!**
-#### **Gmail: tuanddt.ai.work@gmail.com**
+#### *Hope this article can help you.*
+#### *If you have any questions please contact me for help!*
+#### *Gmail: tuanddt.ai.work@gmail.com*
 
-#### ***Thanks everyone!***
+#### *Thanks everyone!*
 
 
 
